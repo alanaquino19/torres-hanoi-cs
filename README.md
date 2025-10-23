@@ -1,6 +1,6 @@
 # Torres de Hanói en C#
 
-Juego de consola "Torres de Hanói" para dos jugadores en C#. Implementa la mecánica por turnos, validación de movimientos y representación visual en la consola. Proyecto pensado para prácticas y demostración de estructuras de datos stack.
+Juego de consola Torres de Hanói para dos jugadores en C#. Implementa la mecánica por turnos, validación de movimientos y representación visual en la consola. Proyecto pensado para prácticas y demostración de estructuras de datos stack.
 
 ---
 
