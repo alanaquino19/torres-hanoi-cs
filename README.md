@@ -62,7 +62,7 @@ Al ejecutar la aplicación el programa solicitará:
 
 ## Autor
 
-Alan Aquino, estudiante de Ingeniería en Informática.
+**Alan Aquino**, estudiante de Ingeniería en Informática.
 
 ---
 
